@@ -1,0 +1,15 @@
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\obj\Debug\net8.0\lab1task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\obj\Debug\net8.0\lab1task.AssemblyInfoInputs.cache
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\obj\Debug\net8.0\lab1task.AssemblyInfo.cs
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\obj\Debug\net8.0\lab1task.csproj.CoreCompileInputs.cache
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\obj\Debug\net8.0\lab1task.sourcelink.json
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\bin\Debug\net8.0\lab1task.exe
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\bin\Debug\net8.0\lab1task.deps.json
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\bin\Debug\net8.0\lab1task.runtimeconfig.json
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\bin\Debug\net8.0\lab1task.dll
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\bin\Debug\net8.0\lab1task.pdb
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\obj\Debug\net8.0\lab1task.dll
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\obj\Debug\net8.0\refint\lab1task.dll
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\obj\Debug\net8.0\lab1task.pdb
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\obj\Debug\net8.0\lab1task.genruntimeconfig.cache
+C:\Users\vital\kpzlabs\lab1\.vs\lab1task\lab1task\obj\Debug\net8.0\ref\lab1task.dll
