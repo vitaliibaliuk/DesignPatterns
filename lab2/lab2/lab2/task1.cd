@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab2.task5.Hero">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABgAAAAAMQAAAAAAAAAAAgAAAAAAAAgAAAAA=</HashCode>
+      <FileName>task5\Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab2.task5.HeroBuilder" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAACACAAAAAIQAgABAAAAAAAAgAAA=</HashCode>
+      <FileName>task5\HeroBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="lab2.task5.EnemyBuilder" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAACACAAAAAIQAgABAAAAAAAAgAAA=</HashCode>
+      <FileName>task5\EnemyBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="lab2.task5.Creates">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAQ=</HashCode>
+      <FileName>task5\Creates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="lab2.task5.IHeroBuilder">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACACAAAAAIQAgABAAAAAAAAgAAA=</HashCode>
+      <FileName>task5\IHeroBuild.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
