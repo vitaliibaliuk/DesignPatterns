@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab1task.lab1classes.Money">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAACgAEAAACAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>lab1classes\Money.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1task.lab1classes.Product">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAkAAAAAAQAAAAAAAAAAAAgAAAACAA=</HashCode>
+      <FileName>lab1classes\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1task.lab1classes.Reporting">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>lab1classes\Reporting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1task.lab1classes.Warehouse">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Class Name="lab1task.lab1classes.Warehouse.WarehouseItem" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>lab1classes\Warehouse.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABQAAAAAAgAAAAAAAABAAAAAA=</HashCode>
+      <FileName>lab1classes\Warehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
